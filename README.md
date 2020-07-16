@@ -18,5 +18,6 @@ Faltan las referencias a los datos
 |Valeria Serrano Cote|       [vserranoc]|
 
 # Project manager. 
+|Project Manager|User github|
 |:--:|:--:|
 |Carlos Bautista|[cbautistap]|
