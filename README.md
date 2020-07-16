@@ -2,7 +2,7 @@
 practica-final-por-equipos-verano-2020-itam-JSOHE created by GitHub Classroom
 
 # Tema
-**Cambio en la inidencia delictiva de los estados debido al COVID**
+**Cambio en la incidencia delictiva de los estados debido al COVID**
 
 # Paquete
 El paquete a utilizar es python
@@ -17,5 +17,6 @@ Faltan las referencias a los datos
 |Carlos Bautista|      [cbautistap]|
 |Valeria Serrano|       [vserranoc]|
 
-#Project manager. 
+# Project manager. 
+|:--:|:--:|
 |Carlos Bautista|[cbautistap]|
