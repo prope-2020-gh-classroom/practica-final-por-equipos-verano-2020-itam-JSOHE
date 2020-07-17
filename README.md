@@ -14,10 +14,10 @@ Faltan las referencias a los datos
 |Integrante|User github|
 |:--:|:--:|
 |Juan Carlos Soto Hernandez|[JSOHE]|
-|Carlos Bautista|      [cbautistap]|
+|Carlos Eduardo Bautista Pontanillo|      [cbautistap]|
 |Valeria Serrano Cote|       [vserranoc]|
 
 # Project manager. 
 |Project Manager|User github|
 |:--:|:--:|
-|Carlos Bautista|[cbautistap]|
+|Carlos Eduardo Bautista Pontanillo|[cbautistap]|
