@@ -2,7 +2,7 @@
 practica-final-por-equipos-verano-2020-itam-JSOHE created by GitHub Classroom
 
 # Tema
-**Factores que influyen en la incidencia delictiva Estatal 2015-2019**
+## Factores que influyen en la incidencia delictiva Estatal 2015-2019
 
 En México la incidencia delictiva es un problema que ha ido en incremento y esta vinculado con el crimen organizado, tanto que ha aumentado la percepción de inseguridad de la población mexicana en los últimos años.
 
