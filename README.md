@@ -13,13 +13,21 @@ Como marco de referencia nos apoyamos en "What Do Economists Know About Crime?" 
 # Paquete
 El paquete a utilizar es python
 
-- numpy
-- matplotlib.pyplot
-- pandas
-- scipy
-- seaborn
-- linearmodels
-- statsmodels.api
+- import pylab
+
+- import numpy as np
+
+- import pandas as pd
+
+- import seaborn as sns
+
+- import matplotlib.pyplot as plt
+
+- import statsmodels.api as sm
+
+- import linearmodels as linearmodels
+
+- from linearmodels.panel import PooledOLS
 
 # Referencias 
 
@@ -29,7 +37,8 @@ El paquete a utilizar es python
   * [Producto Interno Bruto Estatal (PIBE). SCNM-INEGI](https://www.inegi.org.mx/sistemas/bie/)
   * [Ingreso promedio de los hogares por entidad federativa 2008-2018. ENIGH-INEGI](https://www.inegi.org.mx/programas/enigh/nc/2018/)
   * [Pobreza y pobreza extrema por entidad federativa 2008-2018. CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx)
-
+  * [pypi](https://pypi.org/project/linearmodels/)
+  
 # Integrantes 
 |Integrante|User github|
 |:--:|:--:|
