@@ -38,7 +38,7 @@ El paquete a utilizar es python
   * [Ingreso promedio de los hogares por entidad federativa 2008-2018. ENIGH-INEGI](https://www.inegi.org.mx/programas/enigh/nc/2018/)
   * [Pobreza y pobreza extrema por entidad federativa 2008-2018. CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx)
   * [pypi](https://pypi.org/project/linearmodels/)
-  * [Los factores que inciden en la violencia homicida en México de 2007 a 2012. Ponce (http://americo.usal.es/iberoame/sites/default/files/isaloren_PAPERseminario10_2013-2014.pdf)
+  * [Los factores que inciden en la violencia homicida en México de 2007 a 2012. Ponce] (http://americo.usal.es/iberoame/sites/default/files/isaloren_PAPERseminario10_2013-2014.pdf)
   
 # Integrantes 
 |Integrante|User github|
