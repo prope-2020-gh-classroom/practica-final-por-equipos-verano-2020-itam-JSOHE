@@ -11,6 +11,7 @@ El paquete a utilizar es python
 Faltan las referencias a los datos
   * [SESNSP Delitos Estatales 2015-2020](https://drive.google.com/file/d/1bTw6UPfW49FKh4dDFefoYMr9skcgkf-0/view?usp=sharing).
   * [CONAPO Población Estatal a mitad de año de 1970 a 2050](http://www.conapo.gob.mx/work/models/CONAPO/Datos_Abiertos/Proyecciones2018/pob_mit_proyecciones.csv)
+  * [What Do Economists Know About Crime?](https://www.nber.org/papers/w13759)
 
 # Integrantes 
 |Integrante|User github|
