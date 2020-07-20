@@ -11,23 +11,23 @@ Ante los señalamientos del actual gobierno de que la principal causa de los del
 Como marco de referencia nos apoyamos en "What Do Economists Know About Crime?" de Angela K. Dills, Jeffrey A. Miron, Garrett Summers, en el cual se señala algunas de las causas u orígenes de la actividad criminal en los Estados Unidos, particularmente, sobre temas de desempleo y pobreza, los cuales no parecen ser factores determinantes que aumenten o disminuyan la incidencia delictiva, como sí parecen serlo el número de personas en edad de delinquir.
 
 # Paquete
-El paquete a utilizar es python
+el paquete a utilizar es Python, con las librerías siguientes
 
-- import pylab
+- scipy
 
-- import numpy as np
+- numpy
 
-- import pandas as pd
+- pandas
 
-- import seaborn as sns
+- seaborn
 
-- import matplotlib.pyplot as plt
+- matplotlib.pyplot
 
-- import statsmodels.api as sm
+- statsmodels.api
 
-- import linearmodels as linearmodels
+- linearmodels
 
-- from linearmodels.panel import PooledOLS
+- pylab
 
 # Referencias 
 
