@@ -22,7 +22,7 @@ El paquete a utilizar es python
 - statsmodels.api
 
 # Referencias 
-Faltan las referencias a los datos
+
   * [SESNSP Delitos Estatales 2015-2020](https://drive.google.com/file/d/1bTw6UPfW49FKh4dDFefoYMr9skcgkf-0/view?usp=sharing).
   * [CONAPO Población Estatal a mitad de año de 1970 a 2050](http://www.conapo.gob.mx/work/models/CONAPO/Datos_Abiertos/Proyecciones2018/pob_mit_proyecciones.csv).
   * [Tasa de desocupación por entidad federativa 2015-2019. ENOE-INEGI](https://www.inegi.org.mx/programas/enoe/15ymas/)
